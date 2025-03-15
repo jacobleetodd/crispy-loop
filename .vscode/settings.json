@@ -1,0 +1,20 @@
+{
+  "files.watcherExclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "search.exclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "files.readonlyInclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "cSpell.words": ["browserslist", "codegen", "vite", "vitest"],
+  "files.associations": {
+    ".husky/*": "shellscript"
+  },
+  "prettier.documentSelectors": [".husky/*", "**/*.{sh}"],
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

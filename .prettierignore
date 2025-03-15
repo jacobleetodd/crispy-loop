@@ -1,0 +1,5 @@
+*.generated.*
+coverage
+dist
+pnpm-lock.yaml
+reports
